@@ -100,18 +100,10 @@ pip install pandas numpy matplotlib scipy scikit-learn
 ## Dashboard
 
 Dashboard Power BI terdiri dari tiga halaman dengan filter interaktif (kategori dan jenis kunjungan):
-
+"<img width="1529" height="853" alt="image" src="https://github.com/user-attachments/assets/1642a758-2d41-4dc4-8877-2724d40229b4" />
+"
 1. **Funnel Overview:** KPI konversi, funnel tiga tahap, hasil sesi
 2. **Siapa yang Tidak Membeli:** kedalaman browsing, kunjungan pertama vs kembali, segmen
 3. **Apa yang Dilihat dan Kapan:** popularitas, kategori, harga, jam, tren mingguan
 
-## Keterbatasan
 
-- Nilai kosong dihapus, sehingga hasil berlaku untuk produk dengan data kategori dan brand lengkap.
-- Log tidak memuat sumber trafik, pencarian, ulasan, stok, ongkos kirim, atau metode bayar, jadi alasan keranjang ditinggalkan tidak terukur.
-- Semua temuan berupa asosiasi, bukan sebab-akibat.
-- Periode data kurang dari enam bulan, waktu dalam UTC, dan "kunjungan kembali" hanya mengacu pada periode data.
-
-## Penulis
-
-**Frederick Rianto Putra**, lulusan S1 Teknik Informatika (S.Kom.), Telkom University Purwokerto. Data Analyst Bootcamp, Dibimbing.
